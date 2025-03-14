@@ -3,6 +3,8 @@ fahrenheit, სადაც უნდა გამოთვალოთ წი�
 ცვლადი kelvin რომელშიც შეინახავთ თუ რამდენი კელვინი იქნება celsius ცვლადში მოცემული რიცხვი, საბოლოოდ დაბეჭდეთ
 სამივე ცვლადი"""
 
-celsius="2"
-
+celsius=10
+fahrenheit=celsius*9/5+32
+kelvin=celsius+273.15
+print(celsius+fahrenheit+kelvin)
 
