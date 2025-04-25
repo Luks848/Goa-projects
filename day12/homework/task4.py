@@ -9,5 +9,6 @@ productive ცვლადი იქნება ჭეშმარიტი (Tr
 თუ read_pages = 15 და free_time = True, მაშინ productive = False.
 თუ read_pages = 30 და free_time = False, მაშინ productive = False."""
 read_pages = int(input("Enter amount of pages read: "))
-free_time = bool(input("Did you have free time? (True/""): "))
+free_time = bool(input("Did you have free time? (True/False): "))
 productive = (read_pages >= 20) and free_time
+print("productive")

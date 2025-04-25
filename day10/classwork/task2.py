@@ -6,6 +6,6 @@ height=float(height)
 
 age=int(input("what is your age"))
 
-height = height (age * 0.5 )
+height = height+(age * 0.5 )
 
 print(height)
