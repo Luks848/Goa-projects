@@ -6,4 +6,4 @@ password= (input("enter password: "))
 while password !="goabest123":
     password= (input("enter password: "))
 
-print("password is correct")g
+print("password is correct")
