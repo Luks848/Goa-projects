@@ -1,0 +1,46 @@
+<!-- 1) ვევგვერდზე დააამატეთ 2 ღილაკი და 1 სურათი,
+როდესაც მომხმარებელი დააჭერს პირველ ღილაკს სურათის
+წყარო უნდა შეიცვალოს (თქვენის სასურველი მისმარითით)
+და როდესაც მოხმარელი დააჭერს მეორე ღილაკს სურათის მისამართი
+უნდა დაბრუნდეს თავდაპირველ წყაროს. დაამტეთ კიდევ ერთი ღილაკი
+რომელზე დაჭერისასც მომხარებლს გამოუვა გამაფრთხილებელი ტექსტი:
+"Hello, have a nice day" -->
+
+<html>
+    <head>
+        <title>
+            task1
+        </title>
+    </head>
+    <body>
+        <h1>სურათის შეცვლა ღილაკით</h1>
+
+        <img id="mainImage" src="https://via.placeholder.com/300" alt="სურათი" width="300">
+      
+        <br>
+      
+        <button onclick="changeImage()">სურათის შეცვლა</button>
+        <button onclick="resetImage()">საწყისი სურათი</button>
+        <button onclick="showAlert()">მესიჯი</button>
+      
+        <script>
+          const originalSrc = "image.png";
+          const newSrc = "CSS3_Logo.PNG.webp";
+      
+          function changeImage() {
+            document.getElementById("mainImage").src = newSrc;
+          }
+      
+          function resetImage() {
+            document.getElementById("mainImage").src = originalSrc;
+          }
+      
+          function showAlert() {
+            alert("Hello, have a nice day");
+          }
+        </script>
+      
+      </body>
+      </html>
+    </body>
+</html>
