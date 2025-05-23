@@ -1,0 +1,197 @@
+Level 02 | Python,
+synatx - სინტქასი, ეს არის ერთგვარი წერის წესები
+display - გამოტანა
+print - ბეჭდვა
+variable - ცვლადი
+equal sign - ტოლობის ნიშანი
+variable name - ცვლადის სახელი
+variable value - ცვლადის მნიშვნელობა
+string - ტექსტური მონაცემი
+parenthesis - ბრჩხილები
+quotation marks -  ბრჭყალები
+
+Level 03 | Frontend
+
+Heading - სათაური
+
+
+Level 04:
+memory - მეხსიერება
+output - მნიშვნელობის გამოტანა
+data - მონაცემები
+single - ერთმაგი
+double - ორმაგი
+line - ხაზი
+modify - შეცვლა
+calculation - გამოთვლა
+result - შედეგი
+call - გამოძახება
+number - რიცხვი
+numerical value - რიცხვითი მნიშვნელობა
+() - ბრჩხილები parenthesis
+""/'' - ბრჭყალები quotation marks
+statement - განცხადება
+create - შექმნა
+declare - დეკლარირება/შექმნა
+exceute - გაშვება
+run - გაშვება
+error - შეცდომა, ხარვეზი კოდში
+debugging - შეცდომების გამოსწორება
+fixing errors - შეცომდების აღრმოფხრვა
+perform operation - ოპერაციის შესრულება
+add - დამატება
+subtract - გამოკლება
+multiply - გამრავლება
+divide - გაყოფა
+შექმნა - დეკლარირება
+store - შენახვა
+
+Level 05:
+
+
+source (src) - წყარო
+search - ძიება
+server - კომპიუტერი რომელიც მუდმივ კავშირშია ინტერნეტთან
+location/address - მისამართი
+typo - წერითი შეცდომა
+case insensitive - დიდი/პატარა ასოების მიმართ გულგრილი
+search engine - საძიებო ძრავა
+request - მოთხოვნა
+level - დონე
+empty - ცარიელი
+temporarily - დროებით
+disable - გამორთვა
+organize - მოწესრიგება, დალაგება
+explain - ახსნა, განმარტება
+white space - 1-ზე მეტი space
+line break - ხაზის გაწყვეტა
+head - თავი
+body - ტანი
+content - შიგთავსი
+nesting - ჩაშენება
+
+Level 06:
+
+execute - გაშვება
+call - გამოძახება
+collaboration - გუნდური მუშაობა
+standards - სტანდარტები
+best practices - საუკეთესო პრაქტიკა
+data type - მონაცემთა ტიპი
+invalid - არასწორი
+
+
+Level 07:
+text formatting - ტექსტის გასტილვა
+bold - მუქი, გამოკვეთილი
+italic - იტალიური, დახრილი
+underline - ქვედახაზი
+semantic - ემოციური დატვირთვის მქონე
+strong - ძლიერი, მნიშვნელოვია
+emphasis - ემფაზისი
+connect - დაკავშირება
+anchor - ღუზა
+hypertext - ტექსტი რომლის მიღმაც ბმულია
+link - ბმული
+domain name - საიტის სახელის ის ნაწილი რომელიც ყველა მის ქვეგვერდზე იგივე რჩება
+inclusive - მომცველი
+accessible - ხელმისაწვდომი
+format - ფორმატი, სახე
+web accessibility - საიტის თავსებადობა
+screen reader - ეკრანის მკითხველი
+
+Level 08:
+input - შეტანა
+output - გამოტანა
+insert - ჩასმა
+
+Level 09:
+order - დალაგება, წყობა
+unorder - დაუწყოებელი
+list - სია
+item - ელემენტი
+
+Level 10:
+type - ტიპი
+convert - გარდაქმნა, მოქცევა
+
+implicit - ბუნებრივი
+
+Level 11:
+top - ზევით
+label - ეტიკეტი
+form - კითხვარი, ინფორმაციის შესავსები ანკეტა
+
+Level 12:
+comparsion - შედარება
+greater - მეტია
+less - ნაკლებია
+equal = ტოლია
+not - უარყოფა
+and - და
+or - ან
+
+Level 14:
+sequence - მიმდევრობა
+iteration - გამეორება
+selection - არჩევა
+order - თანმიმდევრობა
+loop - მარყუჟი
+alogirthm - ნაბიბჯ-ნაბიჯ დავალების შესასრულებლად
+
+Level 15:
+drop down - ჩამოსაშლელი
+select - არჩევა
+option - ვარიანტი
+pre-selected - წინასწარ არჩეული
+placeholder - ადგილის დამკავებელი
+
+Level 16:
+iterable - პროგრამირებაში დალაგებული მიმდევრობა
+sum - ჯამი
+while - რაღაცის განმავლობაში
+infinite - უსასრულო
+
+Level 17:
+audio - ხმა
+autoplay - ავტომატური ჩართვა
+loop - ციკლი, მარუჟი
+muted - დამუნჯებული, ხმა გათიშული
+control - მართვა
+
+Level 18:
+if - თუ
+else - სხვა შემთხვევაში
+condition - პირობა
+even - ლუწი
+odd - კენტი
+
+Level 19:
+Page Layout - ვებგვერდის განლაგება
+
+Level 20:
+List - სია
+
+Level 21:
+dash - (-) სიმბოლო
+divide - გაყოფა
+inline - ელემენტი რომელიც მხოლოდ იმ ადგილს იკავებს რაც სჭირდება
+block level - ელემენტი რომელიც მთალიანად იკავებს იმ სივრცეს რაც შეუძლია
+
+Level 22:
+mutable - შეცვალდი
+immutable - შეუცვლელი
+slice - ნაჭერი
+
+Level 23:
+table - ცხრილი
+row - რიგი
+column - სვეტი
+data - მონაცემი
+merge - გაერთიანება
+cell - უჯრა
+
+Level 29:
+colon - ორწერტილი
+semicolon - წერტილმძიმე
+comma - მძიმე
