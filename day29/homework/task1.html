@@ -1,0 +1,42 @@
+<!-- 2) ახსენით თითოეული ტერმინი: CSS Rule
+Selector, Declaration, Property,
+Value და მოიყვანეთ მაგალითები,
+Internal CSS-ის გზით -->
+
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+<meta charset="UTF-8">
+<title>CSS ტერმინები</title>
+
+    <!-- Internal CSS -->
+    <style>
+    /* CSS Rule: მთელი ეს ბლოკი არის CSS წესი */
+    p {
+      /* Property: 'color' მიუთითებს ელემენტის ტექსტის ფერს */
+      /* Value: 'blue' არის მნიშვნელობა, რაც განსაზღვრავს ფერს */
+        color: blue;
+
+      /* Property: 'font-size' მიუთითებს შრიფტის ზომას */
+      /* Value: '18px' განსაზღვრავს ზომას 18 პიქსელით */
+        font-size: 18px;
+    }
+
+    /* CSS Rule: მეორე წესი */
+    h1 {
+      /* Property: 'background-color' მიუთითებს ფონს */
+      /* Value: 'yellow' განსაზღვრავს ყვითელ ფონს */
+        background-color: yellow;
+    }
+    </style>
+</head>
+<body>
+
+    <!-- Selector: h1 — ეს წესი ეხება სათაურ ელემენტს -->
+    <h1>ეს არის სათაური</h1>
+
+    <!-- Selector: p — ეს წესი ეხება პარაგრაფ ელემენტს -->
+    <p>ეს არის პარაგრაფი, რომელსაც აქვს ლურჯი ფერი და 18px ზომის შრიფტი.</p>
+
+</body>
+</html>
