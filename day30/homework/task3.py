@@ -6,4 +6,4 @@ def greet(number,word):
     for i in range(number):
         print(word)
 
-greet(5,"Giorgi")
+greet(5,"Luka")
