@@ -1,5 +1,5 @@
 
-"Codewars 1"
+"Codewars 6"
 # def square_digits(num):
 #     # Your code here
 #     result = "" 
